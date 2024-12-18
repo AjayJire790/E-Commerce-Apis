@@ -1,0 +1,15 @@
+{
+  "name": "e-commerce-apis",
+  "version": "1.0.0",
+  "description": "APIs for Ecommerce application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "Ajay Jire",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
