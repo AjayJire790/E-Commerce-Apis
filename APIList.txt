@@ -4,12 +4,12 @@ Get Product - Done
 Add a Product - Done
 Get one Product - Done
 Filter Product - Done
-Rate Product -
-Add items to cart
-Get items to cart
-Remove items from cart
+Rate Product - Done
+Add items to cart - Done
+Get items to cart - Done
+Remove items from cart - Done
 
 UserController
 
-Signup - (name,email, password, TypeOfUser)
-Signin - (email, password)
+Signup - (name,email, password, TypeOfUser) - Done
+Signin - (email, password) - Done 
